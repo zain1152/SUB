@@ -1,0 +1,5 @@
+days = ("Mon", "Tue", "Wed", "Thurs", "Fri", "Sat", "Sun")
+for d in days: 
+    if (d =="Fri"):
+        continue
+    print (d)
